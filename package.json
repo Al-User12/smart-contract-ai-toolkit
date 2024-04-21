@@ -3,6 +3,36 @@
   "version": "1.0.0",
   "description": "Contoh proyek menggunakan chain-ai-connect untuk pengembangan smart contract AI",
   "main": "index.js",
+  "dependencies": {
+    "@chain-ai/connect": "^1.0.0"
+  },
+  "@types/node": "^16.0.0",
+  "engines": {
+    "node": "^16.0.0"
+  },
+  "keywords": [
+    "smart-contract",
+    "ai",
+    "chain-ai-connect"
+  ],
+  "repository": "https://github.com/al-user12/smart-contract-ai-toolkit",
+  "bugs": {
+    "url": "https://github.com/al-user12/smart-contract-ai-toolkit/issues"
+  },
+  "homepage": "https://github.com/al-user12/smart-contract-ai-toolkit",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "peerDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "type": "module",
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md",
+    "tsconfig.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
