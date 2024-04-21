@@ -1,0 +1,11 @@
+{
+  "name": "smart-contract-ai-toolkit",
+  "version": "1.0.0",
+  "description": "Contoh proyek menggunakan chain-ai-connect untuk pengembangan smart contract AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al-User12",
+  "license": "MIT"
+}
